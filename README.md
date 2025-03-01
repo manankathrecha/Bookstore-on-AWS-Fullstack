@@ -39,7 +39,7 @@ The **Bookstore-on-AWS-Fullstack** project is a full-stack web application that 
 
 ## Architecture
 
-![Architecture Diagram](path_to_architecture_diagram.png)
+![Architecture Diagram](https://github.com/manankathrecha/Bookstore-on-AWS-Fullstack/blob/main/image.png)
 
 The application follows a microservices architecture with the frontend and backend decoupled for independent development and deployment. AWS services are utilized to manage infrastructure, ensuring high availability and scalability.
 
